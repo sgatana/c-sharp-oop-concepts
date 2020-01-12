@@ -1,0 +1,11 @@
+/Users/stephen/aspApps/firstApp/bin/Debug/netcoreapp3.0/firstApp
+/Users/stephen/aspApps/firstApp/bin/Debug/netcoreapp3.0/firstApp.deps.json
+/Users/stephen/aspApps/firstApp/bin/Debug/netcoreapp3.0/firstApp.runtimeconfig.json
+/Users/stephen/aspApps/firstApp/bin/Debug/netcoreapp3.0/firstApp.runtimeconfig.dev.json
+/Users/stephen/aspApps/firstApp/bin/Debug/netcoreapp3.0/firstApp.dll
+/Users/stephen/aspApps/firstApp/bin/Debug/netcoreapp3.0/firstApp.pdb
+/Users/stephen/aspApps/firstApp/obj/Debug/netcoreapp3.0/firstApp.csprojAssemblyReference.cache
+/Users/stephen/aspApps/firstApp/obj/Debug/netcoreapp3.0/firstApp.AssemblyInfoInputs.cache
+/Users/stephen/aspApps/firstApp/obj/Debug/netcoreapp3.0/firstApp.AssemblyInfo.cs
+/Users/stephen/aspApps/firstApp/obj/Debug/netcoreapp3.0/firstApp.dll
+/Users/stephen/aspApps/firstApp/obj/Debug/netcoreapp3.0/firstApp.pdb
